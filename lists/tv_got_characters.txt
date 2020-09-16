@@ -1,0 +1,50 @@
+[TITLE]
+Game of Thrones Characters
+
+[DESCRIPTION]
+We're looking for names of starring characters from the Game of Thrones TV series. Their actor MUST have been credited in the show's opening credits.
+
+[LIST]
+Ned Stark === Ned === Eddard Stark === Eddard
+Robert Baratheon === King Robert === Robert
+Jaime Lannister === Jaime === The Kingslayer
+Catelyn Stark === Catelyn === Catelyn Tully
+Cersei Lannister === Cersei === Cersei Baratheon === Queen Cersei
+Daenerys Targaryen === Dany === Queen Daenerys === Daenerys
+Jorah Mormont === Jorah
+Petyr Baelish === Littlefinger === Petyr === Lord Baelish
+Viserys Targaryen === Viserys
+Jon Snow === Jon === Lord Snow === Lord Commander Snow
+Sansa Stark === Sansa === Sansa Lannister === Sansa Bolton
+Arya Stark === Arya
+Robb Stark === Robb === King Robb
+Theon Greyjoy === Theon === Reek
+Bran Stark === Bran === Brandon === Brandon Stark
+Joffrey Baratheon === Joffrey === King Joffrey === Joffrey Lannister
+Sandor Clegane === Sandor === The Hound
+Khal Drogo === Drogo
+Tyrion Lannister === Tyrion === The Imp
+Tywin Lannister === Tywin
+Sam Tarly === Samwell Tarly === Sam === Samwell
+Davos Seaworth === Davos
+Margaery Tyrell === Margaery === Margaery Baratheon === Queen Margaery
+Stannis Baratheon === Stannis === King Stannis
+Melisandre === Lady Melisandre === The Red Woman
+Jeor Mormont === Jeor === Commander Mormont === Lord Commander Mormont
+Bronn === Ser Bronn of the Blackwater === Bronn of the Blackwater
+Varys === Lord Varys
+Shae
+Ygritte
+Talisa Stark === Talisa === Talisa Maegyr
+Gendry
+Tormund === Tormund Giantsbane
+Gilly
+Brienne of Tarth === Brienne
+Ramsay Bolton === Ramsay === Ramsay Snow
+Ellaria Sand === Ellaria
+Daario Naharis === Daario
+Missandei
+Jaqen H'ghar === Jaqen
+Tommen Baratheon === Tommen === King Tommen === Tommen Lannister
+Roose Bolton === Roose
+The High Sparrow === Sparrow

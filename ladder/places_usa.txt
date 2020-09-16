@@ -1,0 +1,47 @@
+[TITLE]
+Biggest American Cities
+
+[DESCRIPTION]
+We're looking for names of the 40 biggest cities in the USA by population, according to U.S. Census Bureau's 2016 estimates.
+
+[LIST]
+New York === New York City === NY === NYC
+Los Angeles === LA
+Chicago
+Houston
+Phoenix
+Philadelphia === Philly
+San Antonio
+San Diego
+Dallas
+San Jose
+Austin
+Jacksonville
+San Francisco === San Fran
+Columbus
+Indianapolis
+Fort Worth === Ft. Worth
+Charlotte
+Seattle
+Denver
+El Paso
+Washington === Washington, DC
+Boston
+Detroit
+Nashville
+Memphis
+Portland
+Oklahoma City === OKC
+Las Vegas === Vegas
+Louisville
+Baltimore
+Milwaukee
+Albuquerque === ABQ
+Tucson
+Fresno
+Sacramento
+Mesa
+Kansas City === KC
+Atlanta
+Long Beach
+Colorado Springs

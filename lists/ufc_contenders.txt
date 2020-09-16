@@ -1,0 +1,130 @@
+[TITLE]
+UFC Title Contenders
+
+[DESCRIPTION]
+We're looking for names of UFC champions, interim champions, and title contenders, since 1st January 2005.
+
+[LIST]
+Andrei Arlovski === Arlovski
+Tim Sylvia === Sylvia
+Justin Eilers === Eilers
+Paul Buentello === Buentello
+Jeff Monson === Monson
+Randy Couture === The Natural === Couture === Randy
+Gabriel Gonzaga === Gabriel Napao === Napao === Gonzaga
+Antonio Rodrigo Nogueira === Antonio Nogueira === Rodrigo Nogueira === Big Nog === Antonio Minotauro === Rodrigo Minotauro === Minotauro Nogueira === Nogueira === Minotauro === Nog
+Brock Lesnar === Lesnar === Brock
+Frank Mir === Mir
+Shane Carwin === Carwin
+Cain Velasquez === Velasquez === Cain
+Junior Cigano === Cigano === Junior dos Santos === JDS === dos Santos
+Antonio Pezao === Antonio Silva === Bigfoot Silva === Antonio Bigfoot === Bigfoot
+Fabricio Werdum === Vai Cavalo === Werdum
+Mark Hunt === The Super Samoan === Hunt
+Stipe Miocic === Miocic === Stipe
+Alistair Overeem === The Reem === Overeem
+Chuck Liddell === The Iceman === Liddell === Chuck
+Jeremy Horn === Horn
+Renato Babalu === Babalu === Renato Sobral
+Tito Ortiz === Ortiz === Tito
+Quinton Jackson === Rampage Jackson === Rampage === Jackson
+Dan Henderson === Hendo
+Forrest Griffin === Griffin === Forrest
+Rashad Evans === Suga Rashad Evans === Evans === Rashad
+Lyoto Machida === The Dragon === Machida === Lyoto
+Mauricio Shogun === Shogun === Mauricio Rua
+Jon Jones === Jon Bones Jones === Jonny Bones Jones === JBJ === Jones === Bones
+Vitor Belfort === The Phenom === Belfort === Vitor
+Chael Sonnen === Sonnen === Chael
+Alexander Gustafsson === Gustafsson === Gus
+Glover Teixeira === Teixeira === Glover
+Daniel Cormier === DC === Cormier
+Anthony Johnson === Rumble Johnson === Rumble
+Ovince Saint Preux === Ovince St-Preux === OSP === Saint Preux === St-Preux
+Evan Tanner === Tanner
+David Terrell === Terrell
+Rich Franklin === Ace === Franklin
+Nate Quarry === Nathan Quarry === Quarry
+David Loiseau === The Crow === Loiseau
+Anderson Silva === The Spider === Anderson
+Nate Marquardt === Nathan Marquardt === Nate the Great === Marquardt
+Patrick Cote === Cote
+Thales Leites === Leites
+Demian Maia === Maia
+Yushin Okami === Okami
+Chris Weidman === Weidman === The Chris
+Luke Rockhold === Rockhold
+Michael Bisping === Mike Bisping === The Count === Bisping
+Matt Hughes === Hughes
+Frank Trigg === Trigg
+BJ Penn === Jay Penn === Baby Jay Penn === Penn === BJ
+Georges St-Pierre === Georges Saint Pierre === GSP === St-Pierre === Saint Pierre === Rush
+Matt Serra === Serra
+Jon Fitch === Fitch
+Thiago Alves === The Pitbull === Alves
+Dan Hardy === The Outlaw === Hardy
+Josh Koscheck === Koscheck
+Jake Shields === Shields
+Carlos Condit === Condit
+Nick Diaz
+Johny Hendricks === Bigg Rigg === Hendricks
+Robbie Lawler === Ruthless Robbie Lawler === Lawler === Robbie
+Rory MacDonald === The Red King === MacDonald === Rory
+Tyron Woodley === T-Wood === The Chosen One === Woodley
+Stephen Thompson === Wonderboy === Wonderboy Thompson === Thompson
+Sean Sherk === The Muscle Shark === Sherk
+Kenny Florian === KenFlo === Florian
+Hermes Franca === Franca
+Diego Sanchez === The Nightmare === The Dream === Lionheart === Sanchez
+Frankie Edgar === Frank Edgar === The Answer === Edgar === Frankie
+Gray Maynard === The Bully === Maynard
+Benson Henderson === Ben Henderson === Bendo === Benson
+Nate Diaz === Nathan Diaz
+Gilbert Melendez === Gil Melendez === El Nino === Melendez === Gil === Giblert
+Anthony Pettis === Showtime === Pettis
+Rafael dos Anjos === RDA === dos Anjos
+Donald Cerrone === Cowboy === Cowboy Cerrone === Cerrone
+Eddie Alvarez === Alvarez
+Conor McGregor === The Notorious === McGregor === Conor
+Jose Aldo Junior === Jose Aldo === Scarface === Aldo
+Mark Hominick === Hominick
+Chad Mendes === Money Mendes === Mendes === Money
+Jung Chan-sung === Chan-sung Jung === Korean Zombie === KZ === Zombie
+Ricardo Lamas === Lamas
+Max Holloway === Blessed Max Holloway === Holloway === Blessed
+Dominick Cruz === The Dominator === Cruz === Dom
+Urijah Faber === The California Kid === Faber
+Demetrious Johnson === Mighty Mouse === Demetrious === DJ
+Renan Barao === Barao === Renan Pegado
+Michael McDonald === Mayday === McDonald === Mayday McDonald
+Eddie Wineland === Wineland
+TJ Dillashaw === Dillashaw === TJ
+Joe Soto === Soto
+Cody Garbrandt === Cody No Love === No Love === Garbrandt === Cody
+John Dodson === Dodson
+John Moraga === Moraga
+Joseph Benavidez === Joe Benavidez === Benavidez === Joe B
+Ali Bagautinov === Bagautinov
+Chris Cariaso === Cariaso
+Kyoji Horiguchi === Horiguchi
+Henry Cejudo === Cejudo
+Tim Elliott === Elliott
+Wilson Reis === Reis
+Germaine de Randamie === GDR === de Randamie
+Holly Holm === The Preacher's Daughter === Holm
+Ronda Rousey === Rowdy Ronda Rousey === Rousey === Ronda === Rowdy === The Rowdy One === R3
+Liz Carmouche === Carmouche
+Miesha Tate === Cupcake === Tate === Miesha
+Sara McMann === McMann
+Alexis Davis === Davis
+Cat Zingano === Zingano
+Bethe Correia === Correia === Bethe
+Amanda Nunes === Amanda Leoa === The Lioness === Nunes
+Carla Esparza === Esparza
+Rose Namajunas === Thug Rose === Namajunas === Rose
+Joanna Jedrzejczyk === Joanna Champion === Jedrzejczyk === JJ
+Jessica Penne === Penne
+Valerie Letourneau === Letourneau
+Claudia Gadelha === Claudinha === Claudinha Gadelha === Gadelha
+Karolina Kowalkiewicz === Kowalkiewicz === Karolina
+Jessica Andrade === Andrade

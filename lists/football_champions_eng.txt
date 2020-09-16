@@ -1,0 +1,31 @@
+[TITLE]
+English Football Champions
+
+[DESCRIPTION]
+We're looking for names of teams who have won the highest league in men's English football, since the 1888-89 season.
+
+[LIST]
+Preston North End === Preston === PNE
+Everton
+Sunderland
+Aston Villa === Villa
+Sheffield United === Sheffield Utd === Sheff Utd === Sheff United
+Liverpool
+Sheffield Wednesday === Wednesday === Sheff Wed === Sheff Wednesday
+Newcastle United === Newcastle
+Manchester United === Manchester Utd === Man Utd === Man United === Man U
+Blackburn Rovers === Blackburn
+West Bromwich Albion === West Brom === WBA
+Burnley
+Huddersfield Town === Huddersfield === Huddersfd
+Arsenal
+Manchester City === Man City === Man C
+Portsmouth
+Tottenham Hotspur === Spurs === Tottenham
+Wolverhampton Wanderers === Wolverhampton === Wolves
+Chelsea
+Ipswich Town === Ipswich
+Leeds United === Leeds
+Derby County === Derby
+Nottingham Forest === Nottm Forest === Forest
+Leicester City === Leicester

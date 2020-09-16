@@ -1,0 +1,107 @@
+[TITLE]
+Biggest American Cities
+
+[DESCRIPTION]
+We're looking for names of the 100 biggest cities in the USA by population, according to U.S. Census Bureau's 2016 estimates.
+
+[LIST]
+New York === New York City === NY === NYC
+Los Angeles === LA
+Chicago
+Houston
+Phoenix
+Philadelphia === Philly
+San Antonio
+San Diego
+Dallas
+San Jose
+Austin
+Jacksonville
+San Francisco === San Fran
+Columbus
+Indianapolis
+Fort Worth === Ft. Worth
+Charlotte
+Seattle
+Denver
+El Paso
+Washington === Washington, DC
+Boston
+Detroit
+Nashville
+Memphis
+Portland
+Oklahoma City === OKC
+Las Vegas === Vegas
+Louisville
+Baltimore
+Milwaukee
+Albuquerque === ABQ
+Tucson
+Fresno
+Sacramento
+Mesa
+Kansas City === KC
+Atlanta
+Long Beach
+Colorado Springs
+Raleigh
+Miami
+Virginia Beach
+Omaha
+Oakland
+Minneapolis
+Tulsa
+Arlington
+New Orleans
+Wichita
+Cleveland
+Tampa
+Bakersfield === Bakersfd
+Aurora
+Honolulu
+Anaheim
+Santa Ana
+Corpus Christi
+Riverside
+Lexington
+St. Louis === Saint Louis
+Stockton
+Pittsburgh
+Saint Paul === St. Paul
+Cincinnati === Cincy
+Anchorage
+Henderson
+Greensboro
+Plano
+Newark
+Lincoln
+Toledo
+Orlando
+Chula Vista
+Irvine
+Fort Wayne === Ft. Wayne
+Jersey City
+Durham
+St. Petersburg === Saint Petersburg
+Laredo
+Buffalo
+Madison
+Lubbock
+Chandler
+Scottsdale
+Glendale
+Reno
+Norfolk
+Winston–Salem
+North Las Vegas === N. Las Vegas === N. Vegas
+Irving
+Chesapeake
+Gilbert
+Hialeah
+Garland
+Fremont
+Baton Rouge
+Richmond
+Boise
+San Bernardino

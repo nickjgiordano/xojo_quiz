@@ -1,0 +1,57 @@
+[TITLE]
+Highest-grossing Movies
+
+[DESCRIPTION]
+We're looking for names of the 50 highest grossing movies of all time worldwide, according to Box Office Mojo.
+
+[LIST]
+Avatar
+Titanic
+Star Wars: Episode VII - The Force Awakens === Star Wars: The Force Awakens === The Force Awakens === Star Wars Episode VII === Star Wars VII
+Jurassic World
+The Avengers === Marvel's The Avengers === Avengers Assemble
+Furious 7 === Fast 7 === Fast & Furious 7
+Avengers: Age of Ultron === Age of Ultron === The Avengers 2
+Harry Potter and the Deathly Hallows Part 2 === The Deathly Hallows Part 2 === Harry Potter and the Deathly Hallows 2 === The Deathly Hallows 2 === Harry Potter 8
+Frozen
+Beauty and the Beast (2017) === Beauty and the Beast
+The Fate of the Furious === Furious 8 === Fast 8 === Fast & Furious 8
+Iron Man 3
+Minions
+Captain America: Civil War === Captain America 3
+Transformers: Dark of the Moon === Transformers 3
+The Lord of the Rings: The Return of the King === The Return of the King === Lord of the Rings 3 === LOTR 3 === LOTR: ROTK
+Skyfall
+Transformers: Age of Extinction === Transformers 4
+The Dark Knight Rises === TDK Rises
+Toy Story 3
+Pirates of the Caribbean: Dead Man's Chest === Pirates of the Caribbean 2
+Star Wars: Rogue One === Rogue One: A Star Wars Story === Rogue One
+Pirates of the Caribbean: On Stranger Tides === Pirates of the Caribbean 4
+Jurassic Park
+Finding Dory
+Star Wars: Episode I - The Phantom Menace === Star Wars: The Phantom Menace === The Phantom Menace === Star Wars Episode I === Star Wars I
+Alice in Wonderland (2010) === Alice in Wonderland
+Zootopia
+The Hobbit: An Unexpected Journey === The Hobbit 1 === The Hobbit
+The Dark Knight === TDK
+Harry Potter and the Philosopher's Stone === Harry Potter and the Sorcerer's Stone === The Sorcerer's Stone === The Philosopher's Stone === Harry Potter 1 === Harry Potter
+Despicable Me 2
+The Lion King
+The Jungle Book (2016) === The Jungle Book
+Pirates of the Caribbean: At World's End === Pirates of the Caribbean 3
+Harry Potter and the Deathly Hallows Part 1 === The Deathly Hallows Part 1 === Harry Potter and the Deathly Hallows 1 === The Deathly Hallows 1 === Harry Potter 7 === Harry Potter and the Deathly Hallows === The Deathly Hallows
+The Hobbit: The Desolation of Smaug === The Hobbit 2
+The Hobbit: The Battle of the Five Armies === The Hobbit 3
+Finding Nemo
+Harry Potter and the Order of the Phoenix === The Order of the Phoenix === Harry Potter 5
+Harry Potter and the Half-Blood Prince === The Half-Blood Prince === Harry Potter 6
+The Lord of the Rings: The Two Towers === The Two Towers === Lord of the Rings 2 === LOTR 2
+Shrek 2
+Harry Potter and the Goblet of Fire === The Goblet of Fire === Harry Potter 4
+Spider-Man 3
+Ice Age: Dawn of the Dinosaurs === Ice Age 3
+Spectre
+Harry Potter and the Chamber of Secrets === The Cha,ber of Secrets === Harry Potter 2
+Ice Age: Continental Drift === Ice Age 4
+The Secret Life of Pets

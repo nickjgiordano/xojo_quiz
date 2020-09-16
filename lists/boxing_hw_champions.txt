@@ -1,0 +1,89 @@
+[TITLE]
+Heavyweight Boxing Champions
+
+[DESCRIPTION]
+We're looking for names of all organisations' boxing World Heavyweight champions, since 29th August 1885.
+
+[LIST]
+John L. Sullivan === John Sullivan === Sullivan
+James J. Corbett === James Corbett === Corbett
+Bob Fitzsimmons === Fitzsimmons
+James J. Jeffries === James Jeffries === Jeffries
+Marvin Hart === Hart
+Tommy Burns === Burns
+Jack Johnson === Johnson
+Jess Willard === Willard
+Jack Dempsey === Dempsey
+Gene Tunney === Tunney
+Max Schmeling === Schmeling
+Jack Sharkey === Sharkey
+Primo Carnera === Carnera
+Max Baer === Baer
+James J. Braddock === James Braddock === Braddock
+Joe Louis === Louis
+Ezzard Charles === Charles
+Lee Savold === Savold
+Joe Walcott === Jersey Joe Walcott === Walcott
+Rocky Marciano === Marciano
+Floyd Patterson === Patterson
+Ingemar Johansson === Johansson
+Sonny Liston === Liston
+Muhammad Ali === Cassius Clay === Ali === Clay
+Ernie Terrell === Terrell
+Joe Frazier === Smokin' Joe === Frazier
+Jimmy Ellis === Ellis
+George Foreman === Foreman
+Leon Spinks
+Ken Norton === Norton
+Larry Holmes === Holmes
+John Tate === Tate
+Mike Weaver === Weaver
+Michael Dokes === Dokes
+Gerrie Coetzee === Coetzee
+Tim Witherspoon === Witherspoon
+Pinklon Thomas === Thomas
+Greg Page === Page
+Tony Tubbs === Tubbs
+Michael Spinks
+Trevor Berbick === Berbick
+Mike Tyson === Iron Mike Tyson === Iron Mike === Tyson
+James Smith === Bonecrusher === Bonecrusher Smith === Smith
+Tony Tucker === Tucker
+Francesco Damiani === Damiani
+James Douglas === Buster Douglas === Buster === Douglas
+Evander Holyfield === The Real Deal === Holyfield
+Ray Mercer === Mercer
+Michael Moorer === Moorer
+Riddick Bowe === Bowe
+Lennox Lewis === Lewis
+Tommy Morrison === The Duke === Tommy Gunn === Morrison
+Michael Bentt === Bentt
+Herbie Hide === Hide
+Oliver McCall === McCall
+Bruce Seldon === Seldon
+Frank Bruno === Bruno
+Henry Akinwande === Akinwande
+Vitali Klitschko === Vitali
+Chris Byrd === Byrd
+Wladimir Klitschko === Wlad Klitschko === Wladimir === Wlad
+John Ruiz === Ruiz
+Hasim Rahman === Rahman
+Roy Jones, Jr. === RJJ === Jones
+Corrie Sanders === Sanders
+Lamon Brewster === Brewster
+Nikolai Valuev === Valuev
+Siarhei Liakhovich === Liakhovich
+Oleg Maskaev === Maskaev
+Shannon Briggs === Briggs
+Ruslan Chagaev === Chagaev
+Sultan Ibragimov === Ibragimov
+Samuel Peter === Peter
+David Haye === The Hayemaker === Haye
+Alexander Povetkin === Povetkin
+Bermane Stiverne === Stiverne
+Deontay Wilder === Wilder
+Tyson Fury === Fury
+Charles Martin === Martin
+Lucas Browne === Browne
+Anthony Joshua === Joshua
+Joseph Parker === Parker

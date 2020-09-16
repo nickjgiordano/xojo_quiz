@@ -1,0 +1,32 @@
+[TITLE]
+Places in Kent
+
+[DESCRIPTION]
+We're looking for names of the 25 biggest settlements in Kent by population, according to the UK Census.
+
+[LIST]
+Maidstone
+Gillingham
+Dartford
+Chatham
+Ashford
+Rochester
+Margate
+Royal Tunbridge Wells === Tunbridge Wells
+Gravesend
+Canterbury
+Folkestone
+Sittingbourne
+Dover
+Ramsgate
+Tonbridge
+Herne Bay
+Whitstable
+Deal
+Sevenoaks
+Northfleet
+Ditton === Aylesford === East Malling
+Broadstairs
+Swanscombe
+Faversham
+Minster

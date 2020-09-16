@@ -1,0 +1,51 @@
+[TITLE]
+American Presidents
+
+[DESCRIPTION]
+We're looking for names of any Presidents of the United States, since 1789.
+
+[LIST]
+George Washington === Washington
+John Adams === Adams
+Thomas Jefferson === Jefferson
+James Madison === Madison
+James Monroe === Monroe
+John Quincy Adams === Quincy Adams
+Andrew Jackson === Jackson
+Martin Van Buren === Van Buren
+William Henry Harrison === William Harrison
+John Tyler === Tyler
+James Polk === James Knox Polk === James K. Polk === Polk
+Zachary Taylor === Taylor
+Millard Fillmore === Fillmore
+Franklin Pierce === Pierce
+James Buchanan === Buchanan
+Abraham Lincoln === Abe Lincoln === Lincoln
+Andrew Johnson === Johnson
+Ulysses S. Grant === Ulysses Grant === Grant
+Rutherford Hayes === Rutherford Birchard Hayes === Rutherford B. Hayes === Hayes
+James Garfield === James Abram Garfield === James A. Garfield === Garfield
+Chester Arthur === Chester Alan Arthur === Chester A. Arthur === Arthur
+Grover Cleveland === Cleveland
+Benjamin Harrison
+William McKinley === McKinley
+Theodore Roosevelt === Teddy Roosevelt
+William Howard Taft === William Taft === Taft
+Woodrow Wilson === Wilson
+Warren Harding === Warren Gamaliel Harding === Warren G. Harding === Harding
+Calvin Coolidge === Coolidge
+Herbert Hoover === Herbert Clark Hoover === Herbert C. Hoover === Hoover
+Franklin D. Roosevelt === FDR === Franklin Delano Roosevelt === Franklin Roosevelt === Roosevelt
+Harry S. Truman === Harry Truman === Truman
+Dwight Eisenhower === Dwight David Eisenhower === Dwight D. Eisenhower === Eisenhower
+John F. Kennedy === JFK === John Fitzgerald Kennedy === John Kennedy === Kennedy
+Lyndon B. Johnson === LBJ === Lyndon Baines Johnson === Lyndon Johnson
+Richard Nixon === Richard Milhous Nixon === Richard M. Nixon === Nixon
+Gerald Ford === Ford
+Jimmy Carter === James Earl Carter === James Carter === James E. Carter === Carter
+Ronald Reagan === Reagan
+George H. W. Bush === George Bush, Sr. === George Herbert Walker Bush === Bush Sr.
+Bill Clinton === Clinton
+George W. Bush === G. W. Bush === George Bush === George Walker Bush === Bush
+Barack Obama === Obama
+Donald Trump === Trump
